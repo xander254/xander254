@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex Kinyanjui</h1>
-<h3 align="center">A passionate Full Stack Software Engieering student at Alx Africa</h3>
+<h3 align="center">A passionate Full Stack Software Engineering student at Alx Africa</h3>
 
 
 - 🌱 I’m currently learning **Python**
