@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alex Kinyanjui</h1>
-<h3 align="center">A passionate full stack student software engineer at Alx Africa</h3>
+<h3 align="center">A passionate juniour Backend Dev</h3>
 
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Node**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
